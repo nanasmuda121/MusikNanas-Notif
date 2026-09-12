@@ -4,10 +4,21 @@
     "Title": "Selamat Datang di NanzMusify",
     "Description": "Nikmati ribuan lagu tanpa batas dan bebas iklan. Dapatkan notifikasi info & update musik terbaru langsung di sini!",
     "ImageURL": [
-      "https://raw.githubusercontent.com/nanasmuda121/MusikNanas-Notif/main/banner.png"
+      "https://www.gobox.my.id/file/Cf21JqRQ62yC.png"
     ],
     "Important": true,
     "Author": "Nanas",
     "Date": 1773480000000
-  }
+  },  {
+        "id": "2",
+        "Title": "Halo cuy",
+        "Description": "nanas lagi badmood mantan punya cwo baru",
+        "ImageURL": [
+          "https://www.gobox.my.id/file/Cf21JqRQ62yC.png
+  Notif/main/banner.png"
+        ],
+        "Important": true,
+        "Author": "Nanas",
+        "Date": 1773510000000
+      }
 ]
