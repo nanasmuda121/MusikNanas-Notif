@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "Title": "Selamat Datang di MusikNanas! 🍍",
+    "Description": "Nikmati ribuan lagu tanpa batas dan bebas iklan. Dapatkan notifikasi info & update musik terbaru langsung di sini!",
+    "ImageURL": [
+      "https://raw.githubusercontent.com/nanasmuda121/MusikNanas-Notif/main/banner.png"
+    ],
+    "Important": true,
+    "Author": "Nanas",
+    "Date": 1773480000000
+  }
+]
